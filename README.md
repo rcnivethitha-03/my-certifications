@@ -16,8 +16,7 @@ This repository contains the professional certifications I have completed during
 - Data Visualization
 - Engineering Simulation
 
-📄 Certificate:
-- MATLAB_Certificate.pdf
+📄 **Certificate:** [MATLAB Certificate](MATLAB_Certificate.pdf)
 
 ---
 
@@ -28,7 +27,6 @@ This repository contains the professional certifications I have completed during
 - Business Communication
 - Workplace Etiquette
 
-📄 Certificate:
-- Email_writing.pdf
+📄 **Certificate:** [Professional Email Writing Certificate](Email_writing.pdf)
 
 ---
