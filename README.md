@@ -29,6 +29,6 @@ This repository contains the professional certifications I have completed during
 - Workplace Etiquette
 
 📄 Certificate:
-- Email writing.pdf
+- Email_writing.pdf
 
 ---
